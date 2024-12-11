@@ -1,0 +1,1 @@
+# roboshop-shared-library
